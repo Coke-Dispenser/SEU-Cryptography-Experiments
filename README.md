@@ -42,3 +42,5 @@ npm install
 #### 启动开发服务器
 npm run dev
 前端服务默认运行在：http://localhost:5173
+
+![preview](image/preview.png)
