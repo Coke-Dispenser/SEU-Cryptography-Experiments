@@ -22,7 +22,7 @@ npm 或 yarn
 
 ## 运行指南
 需要分别启动后端服务和前端服务。
-###1. 启动后端 (Backend)
+### 1. 启动后端 (Backend)
 Bash
 #### 进入后端目录
 cd backend
@@ -32,7 +32,7 @@ npm install
 npm start
 #### 或者使用 node server.js
 后端服务默认运行在：http://localhost:3000
-###2. 启动前端 (Frontend)
+### 2. 启动前端 (Frontend)
 打开一个新的终端窗口：
 Bash
 #### 进入前端目录
